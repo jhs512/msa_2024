@@ -1,0 +1,5 @@
+rootProject.name = 'msa_2024'
+include 'module_app_member'
+include 'module_app_post'
+include 'module_common_util'
+
