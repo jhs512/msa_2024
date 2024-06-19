@@ -1,2 +1,5 @@
 server:
   port: 8021
+spring:
+  config:
+    import: "classpath:application-common-readonly.yml"
