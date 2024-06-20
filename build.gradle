@@ -35,10 +35,18 @@ subprojects {
 project(':module_app_member') {
     dependencies {
         implementation project(':module_common_util')
+        implementation project(':module_common_base')
     }
 }
 
 project(':module_app_post') {
+    dependencies {
+        implementation project(':module_common_util')
+        implementation project(':module_common_base')
+    }
+}
+
+project(':module_common_base') {
     dependencies {
         implementation project(':module_common_util')
     }

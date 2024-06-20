@@ -11,6 +11,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/module_app_member" />
             <option value="$PROJECT_DIR$/module_app_post" />
+            <option value="$PROJECT_DIR$/module_common_base" />
             <option value="$PROJECT_DIR$/module_common_util" />
           </set>
         </option>

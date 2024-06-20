@@ -43,3 +43,5 @@ bin/
 
 ### Custom ###
 application-common-readonly.yml
+db_dev.mv.db
+db_dev.trace.db
